@@ -1,5 +1,9 @@
 from setuptools import find_packages, setup
 
+# these imports are for resolving the problem with ROS looking for the ddr_rviz.launch.py file in install/shared
+import os
+from glob import glob
+
 package_name = 'differential_drive_robot'
 
 setup(
@@ -10,6 +14,9 @@ setup(
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
+        (os.path.join('share', package_name), glob('launch/*.launch.py')),
+        (os.path.join('share', package_name), glob('urdf/*.xacro.urdf')),
+        (os.path.join('share', package_name), glob('rviz/*.rviz')),
     ],
     install_requires=['setuptools'],
     zip_safe=True,
