@@ -1,0 +1,17 @@
+[0.561s] Invoking command in '/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot': PYTHONPATH=/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot/prefix_override:/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot/build --no-deps install_data
+[0.767s] running develop
+[0.893s] running egg_info
+[0.894s] writing differential_drive_robot.egg-info/PKG-INFO
+[0.894s] writing dependency_links to differential_drive_robot.egg-info/dependency_links.txt
+[0.894s] writing entry points to differential_drive_robot.egg-info/entry_points.txt
+[0.894s] writing requirements to differential_drive_robot.egg-info/requires.txt
+[0.894s] writing top-level names to differential_drive_robot.egg-info/top_level.txt
+[0.895s] reading manifest file 'differential_drive_robot.egg-info/SOURCES.txt'
+[0.896s] writing manifest file 'differential_drive_robot.egg-info/SOURCES.txt'
+[0.897s] running build_ext
+[0.897s] Creating /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/lib/python3.10/site-packages/differential-drive-robot.egg-link (link to .)
+[0.897s] 
+[0.897s] Installed /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot
+[0.898s] running install_data
+[0.898s] copying urdf/differential_drive_robot.xacro.urdf -> /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/share/differential_drive_robot
+[0.936s] Invoked command in '/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot' returned '0': PYTHONPATH=/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot/prefix_override:/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot/build --no-deps install_data

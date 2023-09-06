@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing differential_drive_robot.egg-info/PKG-INFO
+writing dependency_links to differential_drive_robot.egg-info/dependency_links.txt
+writing entry points to differential_drive_robot.egg-info/entry_points.txt
+writing requirements to differential_drive_robot.egg-info/requires.txt
+writing top-level names to differential_drive_robot.egg-info/top_level.txt
+reading manifest file 'differential_drive_robot.egg-info/SOURCES.txt'
+writing manifest file 'differential_drive_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/lib/python3.10/site-packages/differential-drive-robot.egg-link (link to .)
+
+Installed /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot
+running install_data
+copying urdf/differential_drive_robot.xacro.urdf -> /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/share/differential_drive_robot

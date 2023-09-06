@@ -1,0 +1,23 @@
+[0.529s] Invoking command in '/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot': PYTHONPATH=/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot/prefix_override:/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot/build --no-deps install_data
+[0.765s] running develop
+[0.892s] running egg_info
+[0.892s] creating differential_drive_robot.egg-info
+[0.892s] writing differential_drive_robot.egg-info/PKG-INFO
+[0.892s] writing dependency_links to differential_drive_robot.egg-info/dependency_links.txt
+[0.892s] writing entry points to differential_drive_robot.egg-info/entry_points.txt
+[0.892s] writing requirements to differential_drive_robot.egg-info/requires.txt
+[0.893s] writing top-level names to differential_drive_robot.egg-info/top_level.txt
+[0.893s] writing manifest file 'differential_drive_robot.egg-info/SOURCES.txt'
+[0.894s] reading manifest file 'differential_drive_robot.egg-info/SOURCES.txt'
+[0.894s] writing manifest file 'differential_drive_robot.egg-info/SOURCES.txt'
+[0.895s] running build_ext
+[0.895s] Creating /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/lib/python3.10/site-packages/differential-drive-robot.egg-link (link to .)
+[0.896s] 
+[0.896s] Installed /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot
+[0.896s] running install_data
+[0.896s] creating /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/share/ament_index
+[0.896s] creating /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/share/ament_index/resource_index
+[0.896s] creating /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/share/ament_index/resource_index/packages
+[0.897s] copying resource/differential_drive_robot -> /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/share/ament_index/resource_index/packages
+[0.897s] copying package.xml -> /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/share/differential_drive_robot
+[0.935s] Invoked command in '/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot' returned '0': PYTHONPATH=/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot/prefix_override:/home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/install/differential_drive_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/piotr/Desktop/AI_Lab/ROS/differential_drive_robot/ddr_ws/build/differential_drive_robot/build --no-deps install_data
